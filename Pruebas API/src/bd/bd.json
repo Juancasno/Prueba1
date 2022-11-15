@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Camilo",
+        "lastname": "Arias",
+        "bornyear" : "1980",
+        "gender" : "Masculino",
+        "Tall" : "180",
+        "age" : "42",
+        "profession" : "Arquitécto"
+    },
+    {
+        "id": 2,
+        "name": "Ana ",
+        "lastname": "Castrillón",
+        "bornyear" : "1997",
+        "gender" : "Femenino",
+        "tall" : "180",
+        "age" : "2",
+        "profession" : "Ingeniero"
+    }
+]
